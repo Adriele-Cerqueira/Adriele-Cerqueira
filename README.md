@@ -102,6 +102,9 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 </div>
 
 ##
+![Snake animation](https://github.com/Adriele-Cerqueira/Adriele-Cerqueira/blob/output/github-contribution-grid-snake.svg)
+
+##
 
 ## Agradeço pela visita!Cada projeto foi desenvolvido para gerar clareza, eficiência e vantagem competitiva. Fico à disposição para colaborações em projetos futuros e trocas de ideias.
 
