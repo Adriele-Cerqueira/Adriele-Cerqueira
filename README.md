@@ -40,7 +40,6 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![CSV](https://img.shields.io/badge/-CSV-4B8BBE?style=for-the-badge&logo=files&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -54,6 +53,8 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Weknow](https://img.shields.io/badge/-Weknow-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
@@ -66,8 +67,7 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/-Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
-![PyMySQL](https://img.shields.io/badge/-PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </div>
 
@@ -85,26 +85,24 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 ![IdeaMap](https://img.shields.io/badge/-IdeaMap-FF5C8D?style=for-the-badge&logo=ideate&logoColor=white)
 ![Mapify](https://img.shields.io/badge/-Mapify-00A8E8?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Tactiq](https://img.shields.io/badge/-Tactiq-F50057?style=for-the-badge&logo=notion&logoColor=white)
-![Bolt](https://img.shields.io/badge/-Bolt-000000?style=for-the-badge&logo=zapier&logoColor=white)
-![New](https://img.shields.io/badge/-New-4CAF50?style=for-the-badge&logo=data&logoColor=white)
+
 
 </div>
 
 ---
 
-## Tecnologias que estou estudando 📚
+## 📚 Tecnologias que estou estudando 
 
 <div align="center">
 
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-FF0000?style=for-the-badge&logo=apache-nifi&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
+##
 
-Obrigado por visitar meu perfil! ...
-
+## Agradeço pela visita!Cada projeto foi desenvolvido para gerar clareza, eficiência e vantagem competitiva. Fico à disposição para colaborações em projetos futuros e trocas de ideias.
 
 
