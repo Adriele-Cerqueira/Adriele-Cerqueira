@@ -102,8 +102,8 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 </div>
 
 ##
+![Descrição do GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW14YXVjOGR6ODR0dGEwM254a2R3ZGgwZmprMGE4MWw1Y3FieXJtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FF56cexcW2JAXCJj/giphy.gif)
 
-![AWS](https://tenor.com/pt-BR/view/cosytales-couple-adorable-kawaii-chibi-gif-7699857015032461198)
 
 ##
 
