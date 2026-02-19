@@ -102,12 +102,11 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 </div>
 
 ##
-![Snake animation](https://raw.githubusercontent.com/Adriele-Cerqueira/Adriele-Cerqueira/output/github-contribution-grid-snake.svg)
 
-
+![AWS](https://tenor.com/pt-BR/view/cosytales-couple-adorable-kawaii-chibi-gif-7699857015032461198)
 
 ##
 
-## Agradeço pela visita!Cada projeto foi desenvolvido para gerar clareza, eficiência e vantagem competitiva. Fico à disposição para colaborações em projetos futuros e trocas de ideias.
+Agradeço pela visita!Cada projeto foi desenvolvido para gerar clareza, eficiência e vantagem competitiva. Fico à disposição para colaborações em projetos futuros e trocas de ideias.
 
 
