@@ -1,30 +1,34 @@
-## Olá,  Eu sou a Adriele Cerqueira
+<table>
+  <tr>
+    <td width="85%" align="left">
+     
+## Olá, Eu sou a Adriele Cerqueira
 
-Analista de Dados formada em Estatística, movida por transformar dados em estratégia e impacto real.
-Atuo conectando números ao contexto do negócio, estruturando informações e gerando insights que apoiam decisões inteligentes.
-Tenho forte base analítica e visão crítica para interpretar padrões além do óbvio.
-Atualmente me aprofundo em Ciência de Dados e Inteligência Artificial para ampliar o poder das soluções orientadas por dados.
-Busco unir técnica, pensamento analítico e inovação para criar valor através da informação
+Analista de Dados formada em Estatística, movida por transformar dados em estratégia e impacto real.  
+Atuo conectando números ao contexto do negócio, estruturando informações e gerando insights que apoiam decisões inteligentes.  
+Tenho forte base analítica e visão crítica para interpretar padrões além do óbvio.  
+Atualmente me aprofundo em Ciência de Dados e Inteligência Artificial para ampliar o poder das soluções orientadas por dados.  
+Busco unir técnica, pensamento analítico e inovação para criar valor através da informação.
+    </td>
+    <td width="15%" align="right">
+      
 
-<div> 
+
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW14YXVjOGR6ODR0dGEwM254a2R3ZGgwZmprMGE4MWw1Y3FieXJtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FF56cexcW2JAXCJj/giphy.gif" width="150">
   
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adriele-cerqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+  </tr>
+</table>
 
-##
+
 
 ## Minhas principais Competências:
 
-- Automação de processos para ganho de tempo
-- Capacidade de otimizar processos
-- Capacidade de transformar dados complexos em insights claros e acionáveis para o negócio.
-- Pensamento analítico e orientado à resultado
+- Automação de processos para ganho de tempo  
+- Capacidade de otimizar processos  
+- Capacidade de transformar dados complexos em insights claros e acionáveis para o negócio  
+- Pensamento analítico e orientado a resultados  
 
 ##
-
 
 ## Tecnologias que utilizo 💻
 
@@ -102,11 +106,7 @@ Busco unir técnica, pensamento analítico e inovação para criar valor atravé
 </div>
 
 ##
-![Descrição do GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW14YXVjOGR6ODR0dGEwM254a2R3ZGgwZmprMGE4MWw1Y3FieXJtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FF56cexcW2JAXCJj/giphy.gif)
 
-
-##
-
-Agradeço pela visita!Cada projeto foi desenvolvido para gerar clareza, eficiência e vantagem competitiva. Fico à disposição para colaborações em projetos futuros e trocas de ideias.
+Agradeço pela visita! Cada projeto foi desenvolvido para gerar clareza, eficiência e vantagem competitiva. Fico à disposição para colaborações em projetos futuros e trocas de ideias.
 
 
